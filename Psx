@@ -9,7 +9,7 @@ _G.MouseLock = true -- make it true if you want the mouselock
 
 -- Remove These If You're Not Using The Rizz LoadingScreen
 
-_G.ScriptName = "LGS Hub"
+_G.ScriptName = "Psx Hub"
 _G.FirstText = "Preparing..."
 _G.SecondText = "Loading..."
 _G.ThirdText = "Almost Done..."
